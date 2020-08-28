@@ -1,9 +1,10 @@
 import React from 'react';
+import '../../assets/styles/home.less';
 
 const Home = () => (
-  <div>
+  <p>
     React Template...
-  </div>
+  </p>
 );
 
 export default Home;
